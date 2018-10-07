@@ -1,7 +1,17 @@
-# Git Commands
+# Boilerplate Webpack React Project
 
-git init - Create a new git repo
-git status - View the changes to your project code
-git add - Add files to staging area
-git commit - Creates a new commit with files from staging area
-git log - View recent commits
+A simple Webpack/React boilerplate setup to get a project up and running quickly. I built this while following Andrew Mead's React.js Udemy Course. This Includes a basic React.js, Auth setup and Heroku build setup.
+
+## To Run Project
+```
+> git clone https://github.com/Christriane/webpack-react-project-boilerplate.git
+> cd 
+> yarn
+> yarn dev-server
+> Enjoy
+```
+
+## To Create Build files
+```
+> yarn build:prod
+```
